@@ -45,11 +45,11 @@ const Guilherme = {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/GuilhermeAGoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAGoncalves&theme=radical&show_icons=true" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeAGoncalves&theme=radical&show_icons=true" />
 </a>
 
 <a href="https://github.com/GuilhermeAGoncalves">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAGoncalves&theme=radical&hide_langs_below=1" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAGoncalves&theme=radical&hide_langs_below=1" />
 </a>
 
 ## **Trabalhando Ein**
