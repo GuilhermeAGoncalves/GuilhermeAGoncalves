@@ -49,7 +49,7 @@ const Guilherme = {
 </a>
 
 <a href="https://github.com/GuilhermeAGoncalves">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAGoncalves&theme=radical&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAGoncalves&theme=radical&hide_langs_below=1" />
 </a>
 
 ## **Trabalhando Ein**
