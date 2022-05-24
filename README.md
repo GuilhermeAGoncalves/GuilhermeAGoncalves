@@ -54,7 +54,7 @@ const Guilherme = {
 
 ## **Trabalhando Ein**
 
-<a href="https://github.com/seu-usuario/seu-repositorio">
+<a href="https://github.com/GuilhermeAGoncalves/Gui-Countrie">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAGoncalves&repo=Gui-Countrie&theme=radical">
     </img>
 </a>
