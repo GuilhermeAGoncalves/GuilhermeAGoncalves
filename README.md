@@ -9,7 +9,7 @@ const Guilherme = {
  name: "Guilherme De Araújo Gonçalves",
  acknowledgements: "Front-End Developer",
  primarySkillset: "JavaScript, React",
- languages: ['JavaScript, Python, React, PostgreeSQL']
+ languages: ['JavaScript, Python, React, PostgreeSQL', 'TypeScript']
 }
 ```
 
