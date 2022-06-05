@@ -54,8 +54,8 @@ const Guilherme = {
 
 ## **Trabalhando Ein**
 
-<a href="https://github.com/GuilhermeAGoncalves/Gui-Countrie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAGoncalves&repo=Gui-Countrie&theme=radical">
+<a href="https://github.com/GuilhermeAGoncalves/To-Do-TypeScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAGoncalves&repo=To-Do-TypeScript&theme=radical">
     </img>
 </a>
 
