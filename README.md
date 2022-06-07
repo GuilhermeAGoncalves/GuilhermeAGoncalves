@@ -6,10 +6,10 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```JS
 const Guilherme = {
- name: "Guilherme De Araújo Gonçalves",
- acknowledgements: "Front-End Developer",
- primarySkillset: "JavaScript, React",
- languages: ['JavaScript, Python, React, PostgreeSQL', 'TypeScript']
+ name: 'Guilherme De Araújo Gonçalves',
+ acknowledgements: 'Front-End Developer',
+ primarySkillset: 'JavaScript and React',
+ languages: ['JavaScript', 'Python', 'React', 'PostgreeSQL', 'TypeScript']
 }
 ```
 
