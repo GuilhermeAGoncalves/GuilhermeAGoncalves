@@ -7,9 +7,9 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```JS
 const Guilherme = {
  name: 'Guilherme De Araújo Gonçalves',
- acknowledgements: 'Front-End Developer',
+ acknowledgements: 'Front-End and Back-End Developer',
  primarySkillset: 'JavaScript and React',
- languages: ['JavaScript', 'Python', 'React', 'PostgreeSQL', 'TypeScript']
+ languages: ['JavaScript', 'Python', 'React', 'PostgreeSQL', 'TypeScript', 'Node', 'Express', 'AdonisJS']
 }
 ```
 
