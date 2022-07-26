@@ -61,10 +61,10 @@ const Guilherme = {
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAGoncalves&theme=radical&hide_langs_below=1" />
 </a>
 
-## **Trabalhando Ein**
+## **Trabalhando Em!**
 
-<a href="https://github.com/GuilhermeAGoncalves/To-Do-TypeScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAGoncalves&repo=To-Do-TypeScript&theme=radical">
+<a href="https://github.com/GuilhermeAGoncalves/corelab-api-challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAGoncalves&repo=corelab-api-challenge&theme=radical">
     </img>
 </a>
 
