@@ -9,7 +9,7 @@ const Guilherme = {
  name: 'Guilherme De Araújo Gonçalves',
  acknowledgements: 'Front-End and Back-End Developer',
  primarySkillset: 'JavaScript and React',
- languages: ['JavaScript', 'Python', 'React', 'PostgreeSQL', 'TypeScript', 'Node', 'Express', 'AdonisJS']
+ languages: ['JavaScript', 'Python', 'React', 'PostgreeSQL', 'TypeScript', 'Node', 'Express', 'AdonisJS', 'Vue.JS']
 }
 ```
 
