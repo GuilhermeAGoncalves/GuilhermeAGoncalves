@@ -62,9 +62,9 @@ const Guilherme = {
 </a>
 
 ## **Trabalhando Em!**
-
-<a href="https://github.com/GuilhermeAGoncalves/corelab-api-challenge">
+[comment] : <<a href="https://github.com/BeconBeConnected/ash-nazg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAGoncalves&repo=corelab-api-challenge&theme=radical">
     </img>
-</a>
+</a>>
+
 
